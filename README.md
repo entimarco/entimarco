@@ -1,5 +1,5 @@
 <h1>Hello! I'm Marco Valenti <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Software Developer and  </h2>
+<h2>Software Developer and Chef </h2>
 
 ## About Me 
 I'm a **Software Developer by day** and a **Baker/Chef by night**! With a passion for coding and culinary arts, I thrive in both the digital and gastronomic worlds. 
